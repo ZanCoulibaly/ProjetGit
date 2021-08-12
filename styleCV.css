@@ -1,0 +1,86 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-color: black;
+}
+
+main {
+    box-shadow: 30px 0px 40px rgb(196, 196, 196), -30px 0px 40px rgb(196, 196, 196);
+    margin: auto;
+    max-width: 900px;
+}
+header {
+    height: 160px;
+    padding-top: 20px;
+    color: black;
+    background-color: orange;
+}
+
+.photo {
+    margin-left: 7%;
+    border-radius: 50%;
+    width: 130px;
+    height: 130px;
+    overflow: hidden;
+}
+.nm{
+    margin-left: 35%;
+    margin-top: -16%;
+}   
+h2{
+    color: black;
+    font-weight: bold;
+    letter-spacing: .1rem;
+    font-size: 20px;
+    padding: 0px;
+    width: 40%;
+    margin-left: 10%
+}
+.post{
+    color: orange;
+    font-weight: bold;
+    letter-spacing: .1rem;
+}
+.add{
+    width: 20px;
+    height: 20px;
+    margin-top: -17%;
+}
+hr.line{
+ border-top: 2px solid orange;
+ width: 90%;
+ margin-top: .8rem;
+ margin-bottom: 1rem;
+}
+.ss{
+    position: relative;
+    right: 20px;
+}
+.prs {
+    background-color: #fff;
+    border: 2px solid #ccc;
+    width: 300px;
+    height: 7px;
+    position: relative;
+    margin-left: 8rem;
+    margin-top: -12;
+}
+.lang {
+    height: 100%;
+    background-color:  orange;
+}
+.dwld{
+    border-radius: 15px 15px;
+    width: 106px;
+    line-height: 22px;
+    color: orange;
+    background-color: black;
+}
+
+.lg{
+    width: 100px;
+    height: 100px;
+}
+.pied{
+    position: relative;
+    left: 16px;
+}
